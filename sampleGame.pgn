@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.09"]
+[Round "?"]
+[White "skylinem21"]
+[Black "DJ_Dulch"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "886"]
+[BlackElo "872"]
+[TimeControl "180+2"]
+[EndTime "10:52:13 PST"]
+[Termination "skylinem21 won by checkmate"]
+
+1. e4 d5 2. e5 c5 3. c3 Nc6 4. d4 e6 5. Bb5 Bd7 6. h3 a6 7. Bxc6 Bxc6 8. Nf3 b5
+9. Be3 cxd4 10. cxd4 Bb4+ 11. Nbd2 Bxd2+ 12. Qxd2 Ne7 13. O-O O-O 14. Bg5 a5 15.
+Qf4 f6 16. exf6 gxf6 17. Bxf6 Ng6 18. Bxd8 Rxf4 19. Ng5 Rxd8 20. Nxe6 Rdf8 21.
+Nxf4 Rxf4 22. Rad1 Kf7 23. Rc1 Be8 24. Rc7+ Ne7 25. Re1 Re4 26. Rxe4 dxe4 27. d5
+Kf6 28. d6 Nd5 29. Rxh7 e3 30. fxe3 Nxe3 31. d7 Bxd7 32. Rxd7 Nc4 33. Ra7 a4 34.
+Ra6+ Ke5 35. Rc6 Nxb2 36. Rc5+ Kd4 37. Rxb5 Kc3 38. Ra5 Kb4 39. Ra8 Nd3 40. g4
+Nc1 41. g5 Nxa2 42. g6 Nc3 43. g7 Nd5 44. g8=Q Nb6 45. Rb8 Ka5 46. Qg5+ Ka6 47.
+Qd8 Nc4 48. Qd4 a3 49. Qxc4+ Ka5 50. Qa2 Ka4 51. Qd2 a2 52. Qxa2# 1-0
